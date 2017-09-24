@@ -1,0 +1,69 @@
+{
+  "tuijian":[
+    {
+      "id":1,
+      "ur":"xiut1",
+      "index":2
+    },
+    {
+      "id":2,
+      "ur":"xiut2",
+      "index":3
+    },
+    {
+      "id":3,
+      "ur":"xiut3",
+      "index":4
+    }
+  ],
+  "personal":[
+    {
+      "id": 1,
+      "title": "iNeed 1800",
+      "pinpai":"莫曼顿",
+      "pos":"城市休闲车",
+      "content": "复古经典的红色涂装车架造型文艺范十足，上管的咖啡杯放置位置设定，体现休闲的生活态度。7档变速加700C轮组，对于基本的休闲骑行，完全可以满足需求。原配挡泥板、简洁的护链非常符合休闲定义。真皮坐垫和把套除了可以为车子带来点缀作用还带来不错舒适度。",
+      "image":"http://owkw6dchq.bkt.clouddn.com/xx/xiu1.svg"
+    },
+    {
+      "id": 2,
+      "pinpai":"FUJI",
+      "title": "Absolute 1.3",
+      "pos":"城市休闲车",
+      "content": "FUJI  Absolute 1.3铝合金车身，Shimano 9S变速系统，硬叉设计搭配Hayes MX-5碟刹安全性能提高一个档次，使用光头胎令到滚动阻力进一步减低，是一款高速巡航利器，也非常适合江边或短途骑行。",
+      "image":"http://owkw6dchq.bkt.clouddn.com/xx/xiu2.svg"
+    },
+    {
+      "id": 3,
+      "pinpai":"Trek",
+      "title": "7.5FX",
+      "pos":"城市休闲车",
+      "content": "Trek FX 7.5珍珠白涂装符合休闲路线，阿尔法金铝合金车架，为车身带来无与伦比的刚性和轻量。采用内走线设计也令到整车看上去非常整洁舒服，10S变速足够应付城市路面大多数上坡下坡路况，FX7.5定位明确是一台适合通勤代步休闲的车辆。",
+      "image":"http://owkw6dchq.bkt.clouddn.com/xx/xiu3.svg"
+    },
+    {
+      "id": 4,
+      "pinpai":"WILIER",
+      "title": "ASOLO",
+      "pos":"城市休闲车",
+      "content": "ASOLO休闲车采用直把设计，角度更为平缓很适合休闲骑行风格。FSA牙盘提供不错的刚性，在平路上发力更为直接。",
+      "image":"http://owkw6dchq.bkt.clouddn.com/xx/xiu4.svg"
+    },
+    {
+      "id": 5,
+      "pinpai":"java",
+      "title": "CR MO 451 16S",
+      "pos":"小轮径",
+      "content": "java这款小轮径使用公路的弯把，在角度上非常具有攻击性，CARBON T700前叉提供更为清晰的路感，SHIMANO 2400变速响应也可以满足一般骑行要求，CR MO 451是一款高端的休闲车型，适合深度发烧对零件有所要求的车友。",
+      "image":"http://owkw6dchq.bkt.clouddn.com/xx/xiu5.svg"
+    },
+    {
+      "id": 6,
+      "pinpai":"KHS 功学社",
+      "title": "F20-T3F451",
+      "pos":"折叠车",
+      "content": "KHS拥有多年制造车架经验，其独特的“软尾巴”设计，能做到有吸震效果又能够保证刚性，KHS车身浮雕立体做工，令到整车档次提高不少，其新型专利，小巧省力，方便操作又美观的折叠设计，令车子在折叠时可以快速、便捷。",
+      "image":"http://owkw6dchq.bkt.clouddn.com/xx/xiu6.svg"
+    }
+  ]
+}
